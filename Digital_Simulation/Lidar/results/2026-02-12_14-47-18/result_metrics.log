@@ -1,0 +1,11 @@
+──────────────────────── Results for frontCroppedKITTIDatasetv2 Sequence 00 ────────────────────────
++---------------------------------+-------+-------+
+|                          Metric | Value | Units |
++=================================+=======+=======+
+|       Average Translation Error | 0.870 | %     |
+|        Average Rotational Error | 0.003 | deg/m |
+| Absolute Trajectory Error (ATE) | 5.089 | m     |
+| Absolute Rotational Error (ARE) | 0.030 | rad   |
+|               Average Frequency |  165  | Hz    |
+|                 Average Runtime |   7   | ms    |
++---------------------------------+-------+-------+
