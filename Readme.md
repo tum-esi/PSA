@@ -4,3 +4,7 @@ This repository contains the code to our work **"Perspective Shift Attacks Again
 
 * [Digital Simulation](./Digital_Simulation/): Contains the code to run the digitial simulation of our attack with individual subfolders for LiDAR and Camera.
 * [Defense](./Defense/): Contains the code of our proposed detection mechanism to detect perspective shift attacks with individual subfolders for LiDAR and Camera.
+
+## Reference Measurements from LiDAR and Camera
+
+Please find real-world measurements for both LiDAR and camera in a separate download: https://os5.mycloud.com/action/share/99a7687a-9fab-46f7-baac-7b5af2b306c9
