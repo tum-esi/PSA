@@ -7,4 +7,4 @@ This repository contains the code to our work **"Perspective Shift Attacks Again
 
 ## Reference Measurements from LiDAR and Camera
 
-Please find real-world measurements for both LiDAR and camera in a separate download: https://os5.mycloud.com/action/share/99a7687a-9fab-46f7-baac-7b5af2b306c9
+Please find real-world measurements for both LiDAR and camera in a separate download: [Download Dataset](https://doi.org/10.14459/2026mp1852693)
